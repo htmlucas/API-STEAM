@@ -45,7 +45,7 @@ app/
 
 ### 1. Clonar repositório
 ```bash
-git clone https://github.com/seu-usuario/steam-api.git
+git clone https://github.com/htmlucas/API-STEAM
 cd steam-api
 ```
 
